@@ -75,5 +75,5 @@ async fn main() {
         let _ = task.await;
     }
 
-    println!("Scan completed.");
+    println!("Scan Selesai. Terimakasih:)");
 }
